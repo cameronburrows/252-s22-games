@@ -6,4 +6,4 @@ if (flip == 0):
 else :
 	flip = "Tails"
 
-print("I flipped a coin and i got: " + flip + "!!!
+print("I flipped a coin and i got: " + flip + "!!")
